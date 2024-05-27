@@ -1,0 +1,7 @@
+#Bibliotecas necessárias
+python.exe -m pip install --upgrade pip
+
+pip install pandas
+pit install plotly
+pip install streamlit
+pip install streamlit --upgrade
